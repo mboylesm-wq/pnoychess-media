@@ -1,0 +1,189 @@
+{
+ "v": 1,
+ "pcAt": "2026-11-27T23:46:49.826Z",
+ "gasLive": true,
+ "graceMin": 15,
+ "pcFreshMin": 45,
+ "graph": "v26.0",
+ "igUserId": "17841434973631446",
+ "note": "Written by Mark's PC (chess/publisher/gas-queue.mjs) for the Google poster (tools/gas-poster). Approved reels only.",
+ "slots": [
+  {
+   "day": "2026-11-28",
+   "slot": "0800",
+   "at": "2026-11-28T08:00:00+08:00",
+   "title": "Vlastimil Hort vs Lev Polugaevsky, 1970: one move lost the game. Can you spot it",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-0800/2026-11-28_0800.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-0800/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Polugaevsky lost this game with one move. Which one? Pause and try before the answer.\n♟ Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970\nMaster class: Before every move, check your opponent's best reply.\nVlastimil Hort vs Lev Polugaevsky, Match/Team URS-World, Belgrade, 1970 — notes by Hort/Polugaevsky.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessgame\n\n.\n.\n.\nAnswer: 23... Rad8",
+    "key": "Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "Polugaevsky lost this game with one move. Which one? Pause and try before the answer.\n\n♟ Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970\nMaster class: Before every move, check your opponent's best reply.\nVlastimil Hort vs Lev Polugaevsky, Match/Team URS-World, Belgrade, 1970 — notes by Hort/Polugaevsky.\nAnswer: 23... Rad8\n\n#chess",
+    "key": "Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "f46b86f6d3336068aa40fd99ecb897969f92009d15713c4775edd9f53a16cc8b"
+  },
+  {
+   "day": "2026-11-28",
+   "slot": "1300",
+   "at": "2026-11-28T13:00:00+08:00",
+   "title": "Réti's Mate in 3D: Richard Réti vs Savielly Tartakower (1910)",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/1300/famous-reti-tartakower-3d.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/1300/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "A queen sacrifice and checkmate in 11 moves. ♟\n♟ Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910\nWatch for 8. O-O-O!! and the checkmate that follows.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #reti #tartakower #chesshistory",
+    "key": "Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "A queen sacrifice and checkmate in 11 moves. ♟\n\n♟ Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910\nWatch for 8. O-O-O!! and the checkmate that follows.\n\n#chess",
+    "key": "Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "94b7fa4229693bf8442f2634d143403c2f29b83a96bf4087997f407639c5d28c"
+  },
+  {
+   "day": "2026-11-28",
+   "slot": "1700",
+   "at": "2026-11-28T17:00:00+08:00",
+   "title": "Anatoly Karpov vs Jan Timman: Karpov made one mistake. Can you punish it like Ti",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-1700/2026-11-28_1700.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-1700/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Karpov made one mistake. Can you punish it like Timman? Pause and try before the answer.\n♟ Anatoly Karpov vs Jan Timman · Buenos Aires 1980\nMaster class: Before every move, check your opponent's best reply.\nAnatoly Karpov vs Jan Timman, Buenos Aires, Buenos Aires, 1980 — notes by Valery Chekhov.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessgame\n\n.\n.\n.\nAnswer: 18... Nd5 19. Qf2 Be8",
+    "key": "Anatoly Karpov vs Jan Timman · Buenos Aires 1980",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "Karpov made one mistake. Can you punish it like Timman? Pause and try before the answer.\n\n♟ Anatoly Karpov vs Jan Timman · Buenos Aires 1980\nMaster class: Before every move, check your opponent's best reply.\nAnatoly Karpov vs Jan Timman, Buenos Aires, Buenos Aires, 1980 — notes by Valery Chekhov.\nAnswer: 18... Nd5 19. Qf2 Be8\n\n#chess",
+    "key": "Anatoly Karpov vs Jan Timman · Buenos Aires 1980",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "ac09305ddbcca7832502138ed19278a796943619311a6a32bf591faa00d74ba9"
+  },
+  {
+   "day": "2026-11-28",
+   "slot": "2000",
+   "at": "2026-11-28T20:00:00+08:00",
+   "title": "Can White's king catch the pawn? It looks impossible.",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2000/2026-11-28_2000.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2000/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Can White's king catch the pawn? It looks impossible. Pause and find the key move before the answer.\n♟ Textbook endgame · reti\nEndgame: A king on the diagonal chases two goals at once. Diagonal steps count the same as straight ones.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessendgame\n\n.\n.\n.\nAnswer: 1. Kg7 Kb6 2. Kf6 h4 3. Ke5 h3 4. Kd6",
+    "key": "Textbook endgame · reti",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "Can White's king catch the pawn? It looks impossible. Pause and find the key move before the answer.\n\n♟ Textbook endgame · reti\nEndgame: A king on the diagonal chases two goals at once. Diagonal steps count the same as straight ones.\nAnswer: 1. Kg7 Kb6 2. Kf6 h4 3. Ke5 h3 4. Kd6\n\n#chess",
+    "key": "Textbook endgame · reti",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "ac600a7452d22dcdeede0c377d2e51d137528c162e540d694f144b8386bec8b2"
+  },
+  {
+   "day": "2026-11-28",
+   "slot": "2100",
+   "at": "2026-11-28T21:00:00+08:00",
+   "title": "f7 and the wandering knight",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/2100/f7-ep5.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/2100/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "A brand new opening. Surely f7 is safe this time? 🐴\n♟ f7 · Episode 5 · Alekhine's Defence (Wall vs Challee, 1996)\nLesson: a knight far from home can't defend its king.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessfunny #chesscartoon\nMusic: original score by PnoyChess",
+    "key": "f7 · Episode 5 · Alekhine's Defence (Wall vs Challee, 1996)",
+    "thumbOffsetMs": 1000
+   },
+   "src": "eed3e28d44d59e2689242fb497f5b75ae7dda9680966b83088f8e4b1999e41ab"
+  },
+  {
+   "day": "2026-11-28",
+   "slot": "2200",
+   "at": "2026-11-28T22:00:00+08:00",
+   "title": "Play like Giri: find the move that punished Praggnanandhaa",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2200/2026-11-28_2200.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2200/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Praggnanandhaa made one mistake. Can you punish it like Giri? Pause and try before the answer.\n♟ Anish Giri vs Rameshbabu Praggnanandhaa · Prague Masters 7th 2025\nMaster class: Before every move, check your opponent's best reply.\nAnish Giri vs Rameshbabu Praggnanandhaa, Prague Masters 7th, Prague, 2025 — notes by Anish Giri.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessgame\n\n.\n.\n.\nAnswer: 27. Ne4 Bg4 28. Bxf7+",
+    "key": "Anish Giri vs Rameshbabu Praggnanandhaa · Prague Masters 7th 202",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "Praggnanandhaa made one mistake. Can you punish it like Giri? Pause and try before the answer.\n\n♟ Anish Giri vs Rameshbabu Praggnanandhaa · Prague Masters 7th 2025\nMaster class: Before every move, check your opponent's best reply.\nAnish Giri vs Rameshbabu Praggnanandhaa, Prague Masters 7th, Prague, 2025 — notes by Anish Giri.\nAnswer: 27. Ne4 Bg4 28. Bxf7+\n\n#chess",
+    "key": "Anish Giri vs Rameshbabu Praggnanandhaa · Prague Masters 7th 202",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "7c73979ada5bd609cc7d989c37f93553623f08912ec780d84dc48c9909373af8"
+  },
+  {
+   "day": "2026-11-29",
+   "slot": "1300",
+   "at": "2026-11-29T13:00:00+08:00",
+   "title": "The King Hunt in 3D: Edward Lasker vs George Thomas (1912)",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-29/1300/famous-lasker-thomas-3d.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-29/1300/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "The king is chased from h7 all the way to g1. ♟\n♟ The King Hunt · Edward Lasker vs George Thomas · London 1912\nWatch for 11. Qxh7+!! and the checkmate that follows.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #lasker #thomas #chesshistory",
+    "key": "The King Hunt · Edward Lasker vs George Thomas · London 1912",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "The king is chased from h7 all the way to g1. ♟\n\n♟ The King Hunt · Edward Lasker vs George Thomas · London 1912\nWatch for 11. Qxh7+!! and the checkmate that follows.\n\n#chess",
+    "key": "The King Hunt · Edward Lasker vs George Thomas · London 1912",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "c26f3b787293648ecff55cca328da2270918a943d1344a87a5d99c60dbcb2083"
+  },
+  {
+   "day": "2026-11-29",
+   "slot": "2100",
+   "at": "2026-11-29T21:00:00+08:00",
+   "title": "f7's cousin f2",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-29/2100/f7-ep6.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-29/2100/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Today it's not about f7. Meet cousin f2. 👀\n♟ f7 · Episode 6 · Budapest Defence (Arnold vs Hanauer, Philadelphia 1936)\nLesson: f2 is just as weak for White.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessfunny #chesscartoon\nMusic: original score by PnoyChess",
+    "key": "f7 · Episode 6 · Budapest Defence (Arnold vs Hanauer, Philadelph",
+    "thumbOffsetMs": 1000
+   },
+   "src": "d81cbd5ab0c69ce5bd7a3f4b3750663b1e5dfcc0eac3013487d02a70a866a616"
+  },
+  {
+   "day": "2026-11-30",
+   "slot": "2100",
+   "at": "2026-11-30T21:00:00+08:00",
+   "title": "f7 gets its revenge",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-30/2100/f7-ep7.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-30/2100/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Cousin f2 visits again, and f7 finally gets its revenge. 😈\n♟ f7 · Episode 7 · Vienna Game (Carwell vs Kirshner, Dublin 1992)\nLesson: the same trap works for both sides. Watch f2 and f7.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessfunny #chesscartoon\nMusic: original score by PnoyChess",
+    "key": "f7 · Episode 7 · Vienna Game (Carwell vs Kirshner, Dublin 1992)",
+    "thumbOffsetMs": 1000
+   },
+   "src": "f893e04a638f70d3470a9de41a58dd24d77a34211c9698a918f2bd78e749644c"
+  }
+ ]
+}
