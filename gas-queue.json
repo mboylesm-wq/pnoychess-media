@@ -1,6 +1,6 @@
 {
  "v": 1,
- "pcAt": "2026-11-28T12:01:15.405Z",
+ "pcAt": "2026-11-28T12:04:14.081Z",
  "gasLive": true,
  "graceMin": 15,
  "pcFreshMin": 45,
@@ -82,13 +82,13 @@
    "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2000/2026-11-28_2000.mp4",
    "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-2000/cover.jpg",
    "ig": {
-    "post": true,
+    "post": false,
     "caption": "Can White's king catch the pawn? It looks impossible. Pause and find the key move before the answer.\n♟ Textbook endgame · reti\nEndgame: A king on the diagonal chases two goals at once. Diagonal steps count the same as straight ones.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessendgame\n\n.\n.\n.\nAnswer: 1. Kg7 Kb6 2. Kf6 h4 3. Ke5 h3 4. Kd6",
     "key": "Textbook endgame · reti",
     "thumbOffsetMs": 1000
    },
    "threads": {
-    "post": true,
+    "post": false,
     "text": "Can White's king catch the pawn? It looks impossible. Pause and find the key move before the answer.\n\n♟ Textbook endgame · reti\nEndgame: A king on the diagonal chases two goals at once. Diagonal steps count the same as straight ones.\nAnswer: 1. Kg7 Kb6 2. Kf6 h4 3. Ke5 h3 4. Kd6\n\n#chess",
     "key": "Textbook endgame · reti",
     "topicTag": "chess",
