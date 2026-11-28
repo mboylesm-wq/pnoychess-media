@@ -1,6 +1,6 @@
 {
  "v": 1,
- "pcAt": "2026-11-28T00:01:17.376Z",
+ "pcAt": "2026-11-28T00:04:38.575Z",
  "gasLive": true,
  "graceMin": 15,
  "pcFreshMin": 45,
@@ -16,13 +16,13 @@
    "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-0800/2026-11-28_0800.mp4",
    "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-0800/cover.jpg",
    "ig": {
-    "post": true,
+    "post": false,
     "caption": "Polugaevsky lost this game with one move. Which one? Pause and try before the answer.\n♟ Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970\nMaster class: Before every move, check your opponent's best reply.\nVlastimil Hort vs Lev Polugaevsky, Match/Team URS-World, Belgrade, 1970 — notes by Hort/Polugaevsky.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessgame\n\n.\n.\n.\nAnswer: 23... Rad8",
     "key": "Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970",
     "thumbOffsetMs": 1000
    },
    "threads": {
-    "post": true,
+    "post": false,
     "text": "Polugaevsky lost this game with one move. Which one? Pause and try before the answer.\n\n♟ Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970\nMaster class: Before every move, check your opponent's best reply.\nVlastimil Hort vs Lev Polugaevsky, Match/Team URS-World, Belgrade, 1970 — notes by Hort/Polugaevsky.\nAnswer: 23... Rad8\n\n#chess",
     "key": "Vlastimil Hort vs Lev Polugaevsky · Match/Team URS-World 1970",
     "topicTag": "chess",
