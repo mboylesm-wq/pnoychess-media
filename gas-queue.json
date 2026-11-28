@@ -1,6 +1,6 @@
 {
  "v": 1,
- "pcAt": "2026-11-28T09:01:14.827Z",
+ "pcAt": "2026-11-28T09:04:05.538Z",
  "gasLive": true,
  "graceMin": 15,
  "pcFreshMin": 45,
@@ -60,13 +60,13 @@
    "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-1700/2026-11-28_1700.mp4",
    "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/reel-2026-11-28-1700/cover.jpg",
    "ig": {
-    "post": true,
+    "post": false,
     "caption": "Karpov made one mistake. Can you punish it like Timman? Pause and try before the answer.\n♟ Anatoly Karpov vs Jan Timman · Buenos Aires 1980\nMaster class: Before every move, check your opponent's best reply.\nAnatoly Karpov vs Jan Timman, Buenos Aires, Buenos Aires, 1980 — notes by Valery Chekhov.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #chessgame\n\n.\n.\n.\nAnswer: 18... Nd5 19. Qf2 Be8",
     "key": "Anatoly Karpov vs Jan Timman · Buenos Aires 1980",
     "thumbOffsetMs": 1000
    },
    "threads": {
-    "post": true,
+    "post": false,
     "text": "Karpov made one mistake. Can you punish it like Timman? Pause and try before the answer.\n\n♟ Anatoly Karpov vs Jan Timman · Buenos Aires 1980\nMaster class: Before every move, check your opponent's best reply.\nAnatoly Karpov vs Jan Timman, Buenos Aires, Buenos Aires, 1980 — notes by Valery Chekhov.\nAnswer: 18... Nd5 19. Qf2 Be8\n\n#chess",
     "key": "Anatoly Karpov vs Jan Timman · Buenos Aires 1980",
     "topicTag": "chess",
