@@ -1,6 +1,6 @@
 {
  "v": 1,
- "pcAt": "2026-11-28T05:43:14.281Z",
+ "pcAt": "2026-11-28T05:46:35.005Z",
  "gasLive": true,
  "graceMin": 15,
  "pcFreshMin": 45,
@@ -38,13 +38,13 @@
    "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/1300/famous-reti-tartakower-3d.mp4",
    "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-28/1300/cover.jpg",
    "ig": {
-    "post": true,
+    "post": false,
     "caption": "A queen sacrifice and checkmate in 11 moves. ♟\n♟ Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910\nWatch for 8. O-O-O!! and the checkmate that follows.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #reti #tartakower #chesshistory",
     "key": "Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910",
     "thumbOffsetMs": 1000
    },
    "threads": {
-    "post": true,
+    "post": false,
     "text": "A queen sacrifice and checkmate in 11 moves. ♟\n\n♟ Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910\nWatch for 8. O-O-O!! and the checkmate that follows.\n\n#chess",
     "key": "Réti's Mate · Richard Réti vs Savielly Tartakower · Vienna 1910",
     "topicTag": "chess",
