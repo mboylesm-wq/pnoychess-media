@@ -1,6 +1,6 @@
 {
  "v": 1,
- "pcAt": "2026-11-28T02:43:15.226Z",
+ "pcAt": "2026-11-28T02:46:25.323Z",
  "gasLive": true,
  "graceMin": 15,
  "pcFreshMin": 45,
@@ -169,6 +169,28 @@
     "thumbOffsetMs": 1000
    },
    "src": "d81cbd5ab0c69ce5bd7a3f4b3750663b1e5dfcc0eac3013487d02a70a866a616"
+  },
+  {
+   "day": "2026-11-30",
+   "slot": "1300",
+   "at": "2026-11-30T13:00:00+08:00",
+   "title": "Young Carlsen Strikes in 3D: Jon Ludvig Hammer vs Magnus Carlsen (2003)",
+   "video": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-30/1300/famous-hammer-carlsen-3d.mp4",
+   "cover": "https://mboylesm-wq.github.io/pnoychess-media/2026-11-30/1300/cover.jpg",
+   "ig": {
+    "post": true,
+    "caption": "Carlsen gives up his queen for mate. ♟\n♟ Young Carlsen Strikes · Jon Ludvig Hammer vs Magnus Carlsen · 2003\nWatch for 10... Nxe5!! and the checkmate that follows.\nFollow @PnoyChess for a new chess lesson every day.\n#chess #ChessPH #PnoyChess #hammer #carlsen #chesshistory",
+    "key": "Young Carlsen Strikes · Jon Ludvig Hammer vs Magnus Carlsen · 20",
+    "thumbOffsetMs": 1000
+   },
+   "threads": {
+    "post": true,
+    "text": "Carlsen gives up his queen for mate. ♟\n\n♟ Young Carlsen Strikes · Jon Ludvig Hammer vs Magnus Carlsen · 2003\nWatch for 10... Nxe5!! and the checkmate that follows.\n\n#chess",
+    "key": "Young Carlsen Strikes · Jon Ludvig Hammer vs Magnus Carlsen · 20",
+    "topicTag": "chess",
+    "replyControl": "everyone"
+   },
+   "src": "c21aed165b2604b77b9a94c5438d963de01b5dc01c7586949d1032b9d5ee5ed4"
   },
   {
    "day": "2026-11-30",
